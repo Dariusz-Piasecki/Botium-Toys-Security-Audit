@@ -326,7 +326,7 @@ This audit produced the following documentation:
 ## 📧 Contact
 
 **Dariusz Piasecki**  
-📧 Email: d.piasecki@piaseckiphotos.com  
+📧 Email: dariusz.piasecki.sec@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/piaseckiphotos](https://linkedin.com/in/piaseckiphotos)  
 🐙 GitHub: [github.com/Dariusz-Piasecki](https://github.com/Dariusz-Piasecki)
 
